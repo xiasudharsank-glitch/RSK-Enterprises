@@ -10,7 +10,7 @@ const services = [
     title: "Government Certificates",
     icon: FileText,
     details: [
-      "Aadhaar-PAN Link | ₹ 0.00"
+      "Aadhaar-PAN Link | ₹ 0.00",
       "Birth Certificate | ₹ 0.00",
       "Death Certificate | ₹ 0.00",
       "Marriage Certificate | ₹ 0.00",
