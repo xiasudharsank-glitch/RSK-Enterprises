@@ -14,10 +14,10 @@ const services = [
       "Birth Certificate | ₹ 0.00",
       "Death Certificate | ₹ 0.00",
       "Marriage Certificate | ₹ 0.00",
-      "Unmarried Certificate | ₹ 0.00"
+      "Unmarried Certificate | ₹ 0.00",
       "Community Certificate | ₹ 0.00",
       "Nativity Certificate | ₹ 0.00",
-      "OBC Certificate | ₹ 0.00"
+      "OBC Certificate | ₹ 0.00",
       "Legal Heir Certificate | ₹ 0.00",
     ],
   },
@@ -53,7 +53,7 @@ const services = [
     title: "Printing & Stationery",
     icon: Printer,
     details: [
-      "TNPL A4 Paper 70 GSM | ₹ 250.00 (MRP: ₹332),
+      "TNPL A4 Paper 70 GSM | ₹ 250.00 (MRP: ₹332)",
       "Scanning & Lamination",
       "Document Printing",
       "Color Printing",
